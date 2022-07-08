@@ -1,0 +1,84 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "desc": "Apple Phone 12th generation",
+            "name": "Iphone 12 Max pro",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/OnsLZyzfqlFjupSoappDLCdJyDS4Olx-PVjrKlYgAIo/rs:fit:570:706:1/g:ce/aHR0cHM6Ly9hbGFu/ZWVzcWF0YXIucWEv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MTEvYXBwbGUtaXBo/b25lLTEyLXByby1t/YXgtZ3JhcGhpdGUt/MjU2LTIucG5n",
+            "price": 999
+        },
+        {
+            "id": 2,
+            "desc": "Apple Laptop Macbook pro",
+            "name": "MacBook Pro",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/5GqVhWtRz3t9cGjG5bY7GAx-EvRytVhgU2NlmoKJlFM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zLnlp/bWcuY29tL29zL2Ny/ZWF0ci11cGxvYWRl/ZC1pbWFnZXMvMjAy/MC0xMi9kMzdlMDQ2/MC0zZWViLTExZWIt/YjdmOS00NDllODY0/YjkxMzU",
+            "price": 9999
+        },
+        {
+            "id": 3,
+            "desc": "Apple watch 12gen",
+            "name": "Apple Watch series 7",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/7USpxZUdGMru4RF1xVrm2BV8xIqK6NlJe9QDVZk43TY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zaG9w/Lmp0Z2xvYmFsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MC8xMC9hcHBsZS13/YXRjaC1zZS00MG1t/LXNwYWNlLWdyZXku/anBn",
+            "price": 400
+        },
+        {
+            "id": 4,
+            "desc": "Apple TV series m14 165 inches",
+            "name": "Apple TV",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/hKNv5AFCFe0K_hBjSALCjF5HwAhL4Cm6Cj1obWhPy-o/rs:fit:1200:1174:1/g:ce/aHR0cHM6Ly93d3cu/Y2FibGV0di5jb20v/YXBwL3VwbG9hZHMv/QXBwbGVUVi00ay00/LU1pbmktMS0xNTY1/eDExNzQuanBn",
+            "price": 2500
+        },
+        {
+            "id": 5,
+            "desc": "Apple paint pen",
+            "name": "Mac PEN",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/STa2qigIz6OLoSHzebsQ_X5Ex2xe8SSOacqMz4lUY-I/rs:fit:1024:768:1/g:ce/aHR0cHM6Ly9pLmVi/YXlpbWcuY29tLzAw/L3MvTnpZNFdERXdN/alE9L3ovdlBJQUFP/U3dFcE5jOE9KUy8k/Xzg2LkpQRw",
+            "price": 100
+        },
+        {
+            "id": 6,
+            "desc": "Apple AirTag ",
+            "name": "AirTag beta",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/fK78wJwxkQBXJMaEBF6xo_XctkSUVOdFBQ_VUc26Y_g/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9jZG4u/dG1vYmlsZS5jb20v/Y29udGVudC9kYW0v/dC1tb2JpbGUvZW4t/cC9hY2Nlc3Nvcmll/cy8xOTAxOTkzMjAx/NzgvMTkwMTk5MzIw/MTc4LXJpZ2h0aW1h/Z2UucG5n",
+            "price": 50
+        },
+        {
+            "id": 7,
+            "desc": "Apple Ear pods",
+            "name": "EarPods",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/Q6iEMsWM_PZkO9Rh7w7-ut9Xtk8Qrc1o4F1nrdOUCSo/rs:fit:1200:1001:1/g:ce/aHR0cDovL3MzLmFt/YXpvbmF3cy5jb20v/ZGlnaXRhbHRyZW5k/cy11cGxvYWRzLXBy/b2QvMjAxNi8xMi9B/cHBsZS1BaXJQb2Rz/LWtpdDEuanBn",
+            "price": 250
+        },
+        {
+            "id": 8,
+            "desc": "Apple Phone 10th generation",
+            "name": "Iphone 10 Max pro",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/0JMtcSv1Al9dAIdGAzgWC3w3FA-2re04b5H9NnSnY2s/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/cGFraXN0YW5pc3Rv/cmVzLmNvbS9kYXRh/L3RpdGFuLzk5YWYz/NDg1M2ZhZDRjMzIz/YjdmYjE3MmZlYzc0/MzUyLmpwZw",
+            "price": 700
+        },
+        {
+            "id": 9,
+            "desc": "Apple Phone 8th generation",
+            "name": "Iphone 8",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/t4Orx9INq83fyRIeIw3idw4PZRYtVw6vnCc6N2CrVDw/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/MWlzYW1BUXRyNnFx/Qk02cmYtaFNRSGFI/YSZwaWQ9QXBp",
+            "price": 500
+        },
+        {
+            "id": 10,
+            "desc": "Apple Macbook Air 13",
+            "name": "MacBook Air",
+            "color": "#544ee4",
+            "image": "https://imgs.search.brave.com/lI-5hLXzTj1qwKM9Kc7WXu5iY3tfmzx6xPIhl0Rcyy0/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/SVRqeWxxSDhQbzR3/UTJ1aEhlZE5nSGFF/OCZwaWQ9QXBp",
+            "price": 7000
+        }
+    ]
+}
